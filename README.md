@@ -3,10 +3,7 @@
  - Primeiro projeto de CSS e HTML.
 
  - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
-   
-## Veja a página aqui
 
- [Clique aqui para acessar!]
    
 ## Tecnologias Aprendidas:
  - HTML.
